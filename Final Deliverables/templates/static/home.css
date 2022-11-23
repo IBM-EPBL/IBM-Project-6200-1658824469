@@ -1,0 +1,30 @@
+.content h1{
+	font-size: 60px;
+	font-weight: 100;
+	margin-top: 24px;
+	margin-bottom: 15px;
+	color: white;
+	
+}
+.content p{
+	font-size: 20px;
+	color: white;
+	
+}
+.content{
+	margin-left: 10%;
+	margin-top: 10%;
+}
+.content .btn{
+	display: inline-block;
+	background: linear-gradient(45deg, #87adfe, #ff77cd);
+	border-radius: 6px;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	text-decoration: none;
+	box-shadow: 3px 8px 22px rgba(94,28,68,0.15);
+	color:rgb(6, 2, 255);
+	font-weight: bold;
+
+}
+
